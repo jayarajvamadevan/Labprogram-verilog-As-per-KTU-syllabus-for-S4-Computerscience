@@ -1,1 +1,1 @@
-# Labprogram-verilog-As-per-KTU-syllabus-for-S4-Computerscience
+The Code and testbench are written in Modelsim 
